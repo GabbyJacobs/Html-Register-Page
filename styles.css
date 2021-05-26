@@ -1,5 +1,5 @@
 html {
-    font-family: 'Robot', sans-serif;
+    font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
 }
 body {
@@ -12,14 +12,13 @@ nav {
     width: 100vw;
     background-color: white;
 }
-
 .nav-link {
     color: white;
     margin: 5px;
     float: right;
     position: relative;
     right: 0;
-    background-color:dodgerblue;
+    background-color: dodgerblue;
     text-decoration: none;
     padding: 5px;
     border-radius: 4px;
@@ -33,6 +32,6 @@ nav {
 .form-input {
     width: 100%;
 }
-#submit-button{
+#submit-button {
     background-color: dodgerblue;
 }
